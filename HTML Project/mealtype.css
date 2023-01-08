@@ -18,3 +18,125 @@ color: white;}
 .bgimg{background-image: url('resort.jpg');
     background-position: center;
     height: 99px;}
+
+.container{   
+    height: 290px;
+    width: 100%;
+    border: 2px solid;
+    background-color: #2c2e2d;
+}
+.main{
+    position: absolute;
+    top: 236px;
+    left: 281px;
+    font-size: 35px;
+    color: white;
+}
+.main p{
+    position: absolute;
+    top: 97px;
+}
+.logo{
+    position: absolute;
+    top: 214px;
+    left: 71%;
+    filter: invert(100%);
+}
+.Things_to_do_1{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 70px;
+    padding-left: 50px;
+    flex-flow: row;
+    justify-content: center;
+    
+}
+.a{
+    transition: all 1s ;
+}
+.a:hover{
+    transform: scale(1.1);
+}
+.b{
+    transition: all 1s ;
+}
+.b:hover{
+    transform: scale(1.1);
+}
+.c{
+    transition: all 1s ;
+}
+.c:hover{
+    transform: scale(1.1);
+}
+.d{
+    transition: all 1s ;
+}
+.d:hover{
+    transform: scale(1.1);
+}
+.e{
+    transition: all 1s ;
+}
+.e:hover{
+    transform: scale(1.1);
+}
+.f{
+    transition: all 1s ;
+}
+.f:hover{
+    transform: scale(1.1);
+}
+.g{
+    transition: all 1s ;
+}
+.g:hover{
+    transform: scale(1.1);
+}
+.h{
+    transition: all 1s ;
+}
+.h:hover{
+    transform: scale(1.1);
+}
+
+.dum{
+    color: black;
+    font-size: 25px;
+}
+.tread{
+    color: black;
+    font-size: 25px;
+}
+.bicycle{
+    color: black;
+    font-size: 25px;
+}
+.leg_curl{
+    color: black;
+    font-size: 25px;
+}
+.Things_to_do_2{
+    display: flex;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    flex-flow: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+.deadlift{
+    color: black;
+    font-size: 25px;
+}
+.pullup{
+    color: black;
+    font-size: 25px;
+}
+.cross_cable{
+    color: black;
+    font-size: 25px;
+}
+.rope{
+    color: black;
+    font-size: 25px;
+}
